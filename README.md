@@ -12,3 +12,5 @@ siendo visibles incluso con telescopios de baja potencia.
 **Figura 1**. Los cuatro satélites galileanos, 
 en una composición que compara sus tamaños con el tamaño de Júpiter. 
 En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
+
+Mucho texto bro
