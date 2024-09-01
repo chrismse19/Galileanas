@@ -43,12 +43,12 @@ Para finalizar, se eliminaron aquellos cantones que no proporcionaban datos porq
 
 ## Resultados
 
-<p align=center> <img src="C:\Users\CHRISTOPHER\Documents\Tarea 1 progra\fig1.jpg" width=800>
+<p align=center> <img src="fig1.jpg" width=800>
 
 **<p align=center> Figura 1. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2018](https://arcg.is/1zrTyW)**
 
 
-<p align=center> <img src="C:\Users\CHRISTOPHER\Documents\Tarea 1 progra\fig2.jpg" width=800>
+<p align=center> <img src="fig2.jpg" width=800>
 
 **<p align=center> Figura 1. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0)**
 ## Conclusiones 
